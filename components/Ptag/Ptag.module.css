@@ -1,0 +1,18 @@
+.ptag {
+	margin: 0;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+.sm {
+	font-size: 14px;
+}
+
+.md {
+	font-size: 16px;
+}
+
+.xl {
+	font-size: 18px;
+	line-height: 29px;
+}
